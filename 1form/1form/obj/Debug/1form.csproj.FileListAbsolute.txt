@@ -1,0 +1,11 @@
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\1form.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\1form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\_1form.Form1.resources
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\_1form.Properties.Resources.resources
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\1form.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\1form.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\bin\Debug\1form.exe.config
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\bin\Debug\1form.exe
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\bin\Debug\1form.pdb
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\1form.exe
+C:\Users\Andrey\Desktop\учеба\praktika\9\1form\1form\obj\Debug\1form.pdb

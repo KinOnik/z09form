@@ -1,0 +1,11 @@
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\bin\Debug\2form.exe.config
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\bin\Debug\2form.exe
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\bin\Debug\2form.pdb
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\2form.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\2form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\_2form.Form1.resources
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\_2form.Properties.Resources.resources
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\2form.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\2form.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\2form.exe
+C:\Users\Andrey\Desktop\учеба\praktika\9\2form\2form\obj\Debug\2form.pdb
